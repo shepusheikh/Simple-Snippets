@@ -1,0 +1,206 @@
+body {
+  overflow-x: hidden;
+}
+/* top header start */
+#topHeader{
+  border-bottom: 1px solid #ebebeb;
+}
+#topHeader a{
+  color: #2c3e50;
+  font-weight: 400;
+  font-size: 0.89rem;
+}
+
+/* top header end */
+
+
+/* bottom header start */
+.logo{
+  width: 250px;
+}
+.bg-color,
+.dropdownColor
+{
+  background-color: #004d80;
+}
+.dropdownColor a{
+  background-color: #004d80 !important;
+}
+.dropdown-item{
+  font-weight: 300;
+}
+nav li {
+  padding-left:  1rem !important;
+}
+nav li a{
+  font-size: 1.3rem;
+  font-weight: 300;
+  color: #fff !important;
+  opacity: .7;
+  transition: .3s ease
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-weight: 400;
+}
+nav li a:hover{
+  opacity: 1;
+}
+button:focus{
+  outline: 0;
+  box-shadow: 0;
+  border: .12rem solid #fff !important;
+}
+/* bottom header end */
+
+
+/* top footer start */
+.top-footer{
+  background-color: #243c4f;
+}
+.top-footer p{
+  color: #fff;
+  margin-bottom: 2px;
+}
+.top-footer a{
+  color: #fff;
+  font-weight: 400;
+  
+}
+.top-footer h3{
+  color: #fff;
+  font-weight: 400;
+  font-size: 1.5rem;
+  
+}
+.simple-snippets li a{
+  color: silver;
+  transition: .3s ease;
+}
+.simple-snippets li a:hover{
+  color: #fff;
+}
+/* top fotter end */
+/* bottom footer start */
+.bottom-footer{
+  background-color: #031b2e;
+}
+.bottom-footer p{
+  color: #fff;
+  margin-bottom: 0px;
+}
+/* bottom footer end */
+
+
+
+
+
+
+
+/* ========Home page Start========
+=================================== */
+/* banner start */
+.banner{
+  background-color: #3498db;
+  color: #fff;
+}
+.banner button{
+  background-color: #004d80;
+  border: none;
+}
+
+.banner button:focus{
+  border: none !important;
+  
+}
+.banner a{
+  color: #fff;
+  font-weight: 400;
+  
+}
+/* banner end */
+/* quality start */
+.quality-box img{
+  height: 140px;
+  width: 140px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* quality end */
+
+/* Requirement start */
+.requirement{
+  background-color: #004d80;
+  color: #fff;
+}
+.requirement button,
+.snippets-text button{
+  border: none;
+
+}
+.requirement button:focus,
+.snippets-text button:focus{
+  box-shadow: none !important;
+  border: none !important;
+
+}
+/* Requirement end */
+
+/* Newsletter start */
+.newsletter{
+  background-color: #004d80;
+  color: #fff;
+}
+.newsletter .curly-form {
+  height: 3rem;
+  border-color: transparent;
+  border-radius: 20px 0 0 20px;
+}
+.newsletter .curly-form-part {
+  height: 3rem;
+  border-color: transparent;
+  border-radius: 0 20px 20px 0;
+  background: #be0280;
+  color: #fff;
+}
+/* Newsletter end */
+/* clients tstart */
+.clients{
+  background-color: #f0f0f0;
+}
+/* clients ens */
+
+/* ========Home page end========
+=================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ========About-us end========
+=================================== */
+/* breadcrumbs start */
+.breadcumbs-section{
+  background-color: #e9ecef;
+}
+.breadcumbs-part{
+  padding: 0;
+  margin-bottom: .5rem;
+}
+/* breadcrumbs end */
+/* ========About-us end========
+=================================== */
+
+
+
+
+

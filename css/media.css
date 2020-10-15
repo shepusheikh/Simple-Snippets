@@ -1,0 +1,416 @@
+/* // Extra small devices (portrait phones, less than 576px) */ 
+@media (max-width: 575.98px) {
+  /* top header start */
+/* top header end */
+  /* bottom header start */
+  #topHeader a {
+    font-size: 0.79rem;
+}
+  
+  .logo{
+    width: 210px;
+  }
+  
+  nav li {
+    padding-left:  0rem !important;
+  }
+  nav li:first-child{
+    margin-top:  .89rem !important;
+  }
+  a.nav-link {
+    padding: 2px 0;
+  }
+  nav li a{
+    font-size: 18px;
+  }
+  .dropdown-item {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  }
+  .dropdown-divider{
+    margin: 0;
+  }
+/* bottom header end */
+
+/* footer start  */
+.full-footer{
+  text-align: center;
+}
+.top-footer h3 {
+  font-size: 1.4rem;
+}
+.top-footer p{
+  font-size: .89rem;
+  
+}
+.top-footer img{
+  width: 250px;
+}
+
+.simple-snippets,
+.important-links,
+.Our-Services,
+.contact-us{
+  margin-bottom: 20px;
+}
+.justText{
+  font-size: 25px;
+}
+
+/* footer end  */
+
+
+/* ========Home page Start========
+=================================== */
+
+.banner{
+  text-align: center;
+}
+.banner-text{
+  margin-bottom: 20px;
+}
+.banner h1{
+  font-size: 1.5rem;;
+}
+.banner h3{
+  font-size: 1rem;;
+}
+
+.banner h5{
+  font-size: .89rem;;
+}
+.btn{
+  font-size: .89rem;
+}
+
+/* quality start */
+.quality-box img{
+  margin-bottom: 0px;
+  height: 110px;
+  width: 110px;
+  padding: 10px;
+}
+.quality-box p{
+  font-size: .9rem;
+}
+.quality-box h5{
+  font-size: 1.2rem;
+}
+.quality-intro h3{
+  font-size: 1.5rem;
+}
+/* quality end */
+/* requirement start */
+.requirement{
+  text-align: center;
+}
+.requirement-text h3{
+  font-size: 1.5rem;
+}
+.requirement-btn button,
+.snippets-text button{
+  width: 100% !important;
+}
+/* requirement end */
+
+
+/* snippets start */
+.snippets{
+  text-align: center;
+}
+.snippets h2{
+  font-size: 1.5rem;
+}
+.snippets h6{
+  font-size: .9rem;
+}
+/* snippets end */
+
+/* newsleter start */
+.newsletter h3{
+  font-size: 1.5rem;
+}.newsletter .curly-form {
+  height: 2rem;
+}
+.newsletter .curly-form-part {
+  height: 2rem;
+}
+/* newsleter end */
+/* ========Home page end========
+=================================== */
+
+
+/* ========About-us Start========
+=================================== */
+
+
+/* breadcrums start */
+.breadcumbs-section h1{
+  font-size: 1.5rem;
+}
+
+/* breadcrums end */
+
+
+/* welcome start */
+.wellcome-text h2{
+  font-size: 1.5rem;
+}
+.wellcome-text p{
+  font-size: .9rem;
+}
+/* welcome end */
+
+
+/* portfolio start */
+.portfolio-section h1{
+  font-size: 1.75rem;
+}
+/* portfolio end */
+
+
+/* ========About-us end========
+=================================== */
+
+
+/* ========contact-us ========
+=================================== */
+.address{
+  text-align: center;
+}
+
+.text p{
+  font-size: .9rem;
+}
+
+
+}
+
+
+
+
+
+
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* top header start */
+/* top header end */
+  /* bottom header start */
+  nav li {
+    padding-left:  0rem !important;
+  }
+  nav li:first-child{
+    margin-top:  1rem !important;
+  }
+/* bottom header end */
+/* fotter start */
+.top-footer h3 {
+  font-size: 1.4rem;
+}
+/* fotter end */
+
+
+
+/* ========Home page Start========
+=================================== */
+
+.banner{
+  text-align: center;
+}
+.banner-text{
+  margin-bottom: 20px;
+}
+.banner h1{
+  font-size: 1.5rem;;
+}
+.banner h3{
+  font-size: 1.2rem;;
+}
+
+.banner h5{
+  font-size: 1rem;;
+}
+/* requirement start */
+.requirement{
+  text-align: center;
+}
+.requirement-text h3{
+  font-size: 1.75rem;
+}
+.requirement-btn button,
+.snippets-text button{
+  width: 100% !important;
+}
+/* requirement end */
+/* snippets start */
+.snippets{
+  text-align: center;
+}
+.snippets h2{
+  font-size: 1.75rem;
+}
+.snippets h6{
+  font-size: 1rem;
+}
+/* snippets end */
+
+
+
+
+/* ========About-us Start========
+=================================== */
+
+
+/* breadcrums start */
+.breadcumbs-section h1{
+  font-size: 1.75rem;
+}
+
+/* breadcrums end */
+/* welcome start */
+.wellcome-text h2{
+  font-size: 1.75rem;
+}
+.wellcome-text img{
+  padding-top: 60px !important;
+  padding-left: 60px !important;
+  padding-right: 60px !important;
+}
+/* welcome end */
+
+/* ========About-us end========
+=================================== */
+
+/* ========contact-us ========
+=================================== */
+.address{
+  text-align: center;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* top header start */
+/* top header end */
+
+  /* bottom header start */
+  nav li {
+    padding-left:  0rem !important;
+  }
+  nav li:first-child{
+    margin-top:  1.5rem !important;
+  }
+/* bottom header end */
+
+/* footer start */
+.top-footer h3 {
+  font-size: 1.5rem;
+}
+/* footer end */
+
+
+
+/* ========Home page Start========
+=================================== */
+/* banner start */
+
+.banner h1{
+  font-size: 1.5rem;;
+}
+.banner h3{
+  font-size: 1.2rem;;
+}
+
+.banner h5{
+  font-size: 1rem;;
+}
+/* quality start */
+.quality-box img{
+  margin-bottom: 15px;
+}
+/* quality end */
+
+
+
+
+
+/* ========About-us Start========
+=================================== */
+
+
+/* breadcrums start */
+.breadcumbs-section h1{
+  font-size: 1.75rem;
+}
+.breadcumbs-part{
+  padding: 0;
+  margin-bottom: .5rem;
+}
+/* breadcrums end */
+
+/* ========About-us end========
+=================================== */
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* top header start */
+/* top header end */
+
+/* ========Home page Start========
+=================================== */
+/* banner start */
+.banner h1{
+  font-size: 2.1rem;;
+}
+.banner h3{
+  font-size: 1.5rem;;
+}
+
+.banner h5{
+  font-size: 1.1rem;;
+}
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+}
